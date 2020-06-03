@@ -1,0 +1,7 @@
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\bin\Debug\Assignment4ThanosKatrakis.exe.config
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\bin\Debug\Assignment4ThanosKatrakis.exe
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\bin\Debug\Assignment4ThanosKatrakis.pdb
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\obj\Debug\Assignment4ThanosKatrakis.csprojAssemblyReference.cache
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\obj\Debug\Assignment4ThanosKatrakis.csproj.CoreCompileInputs.cache
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\obj\Debug\Assignment4ThanosKatrakis.exe
+C:\Users\k.b.8anos\source\repos\Assignment4ThanosKatrakis\Assignment4ThanosKatrakis\obj\Debug\Assignment4ThanosKatrakis.pdb
